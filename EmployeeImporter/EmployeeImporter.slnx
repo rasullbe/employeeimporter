@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EmployeeImporter.Tests/EmployeeImporter.Tests.csproj" />
+  <Project Path="EmployeeImporter/EmployeeImporter.csproj" />
+</Solution>
